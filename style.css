@@ -1,0 +1,38 @@
+.f1 {
+    border: 1.5px solid black;
+  width: 80px;
+  height: 80px;
+  background: #FFFD24;
+  position: absolute;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 15px;
+  transform: rotate(15deg);
+  margin-left: 60px;
+  margin-top: 81px;
+}
+.f2 {
+    border: 1.5px solid black;
+  width: 80px;
+  height: 80px;
+  background: #B6D1EA;
+  position: absolute;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 15px;
+  transform: rotate(45deg);
+  margin-left: 110px;
+}
+.f3 {
+    border: 1.5px solid black;
+  width: 80px;
+  height: 80px;
+  background: #D70563;
+  position: absolute;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 15px;
+  transform: rotate(-15deg);
+  margin-left: 160px;
+  margin-top: 81px;
+}
